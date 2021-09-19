@@ -1,0 +1,52 @@
+.align-center{
+	text-align: center;
+}
+.bg-maroon{
+	background-color: #b71540;
+}
+.bg-blue{
+	background-color: #4a69bd;
+}
+.bg-green{
+	background-color: #b8e994;
+}
+.bg-yellow{
+	background-color: #f6b93b;
+}
+.bg-spray{
+	background-color: #82ccdd;
+}
+.bg-red{
+	background-color: #e55039;
+}
+.bg-violet{
+	background-color: #D6A2E8;
+}
+.bg-saffron{
+	background-color: #FD7272;
+}
+.flex{
+	display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-arround{
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
